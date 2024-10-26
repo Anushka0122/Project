@@ -4,5 +4,5 @@ let openMap = () => {
 
 function msg()
 {
-  alert("Appointment Booked <br> Thank you")
+  alert("Appointment Booked  Thank you")
 }
