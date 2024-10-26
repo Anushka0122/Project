@@ -7,4 +7,5 @@ This website is created using html ,css and Javascript. The the most comman tags
 Installation:
 
 Clone the Repository: Begin by cloning the repository to your local machine. Open your terminal and run the following command:
+https://github.com/Anushka0122/Project.git
 
