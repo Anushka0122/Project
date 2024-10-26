@@ -26,3 +26,8 @@ Installation:
 Clone the Repository: Begin by cloning the repository to your local machine. Open your terminal and run the following command:
 https://github.com/Anushka0122/Project.git
 
+Team Members:
+1.Anushka Yaligar
+2.Olivia D'silva
+3.Shivani Wadkar
+
